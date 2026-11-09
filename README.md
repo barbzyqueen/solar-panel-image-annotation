@@ -82,25 +82,25 @@ No model was trained as part of this project. The focus was on manual annotation
 
 ### 1. Dataset Overview
 
-![Solar panel dataset overview](screenshots/dataset-overview.png)
+![Solar panel dataset overview](annotation-screenshots/dataset-overview.png)
 
 Overview of the 15 images in the Roboflow dataset, with annotation overlays enabled.
 
 ### 2. Individual Image Annotation
 
-![Individual solar panel annotations](screenshots/individual-annotation.png)
+![Individual solar panel annotations](annotation-screenshots/individual-annotation.png)
 
 Example of polygon annotations applied to individual solar panels.
 
 ### 3. Dataset Version and Export
 
-![Roboflow dataset version](screenshots/dataset-version.png)
+![Roboflow dataset version](annotation-screenshots/dataset-version.png)
 
 The generated dataset version and download interface.
 
 ### 4. Class Configuration
 
-![Solar panel class configuration](screenshots/class-configuration.png)
+![Solar panel class configuration](annotation-screenshots/class-configuration.png)
 
 Class configuration showing the `Solar-Panel` label and annotation count.
 
