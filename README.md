@@ -124,7 +124,6 @@ solar-panel-image-annotation/
 │
 └── image-sources.md
 
-
 ## Author
 
 **Barbara**
