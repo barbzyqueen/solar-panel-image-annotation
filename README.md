@@ -104,7 +104,8 @@ The generated dataset version and download interface.
 
 Class configuration showing the `Solar-Panel` label and annotation count.
 
-## Repository Structure
+##
+
 
 ```text
 solar-panel-image-annotation/
@@ -123,9 +124,14 @@ solar-panel-image-annotation/
 ├── annotation-guidelines.md
 │
 └── image-sources.md
+```
 
 ## Author
 
 **Barbara**
 
 [GitHub Profile](https://github.com/barbzyqueen)
+
+
+
+
